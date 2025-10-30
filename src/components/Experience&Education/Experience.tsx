@@ -74,7 +74,7 @@ const Experience = () => {
           </div>
           <div className="mt-4">
             <p
-              className="leading-wide mb-4 max-w-[1040px] font-AvenirRoman text-[16px] text-white/60 lg:text-[20px] xl:text-[24px] xl:leading-10"
+              className="leading-wide mb-4 max-w-[1040px] font-AvenirRoman text-[16px] text-white/60 lg:text-[20px] xl:text-[20px] xl:leading-10"
               data-aos="fade-up"
               data-aos-delay="200"
               data-aos-duration="1000"
@@ -84,7 +84,7 @@ const Experience = () => {
             {exp.highlights.map((highlight, hIndex) => (
               <p
                 key={hIndex}
-                className="leading-wide mt-2 max-w-[1040px] font-AvenirRoman text-[16px] text-white/60 lg:text-lg xl:text-[24px] xl:leading-10"
+                className="leading-wide mt-2 max-w-[1040px] font-AvenirRoman text-[16px] text-white/60 lg:text-lg xl:text-[20px] xl:leading-10"
                 data-aos="fade-up"
                 data-aos-delay="200"
                 data-aos-duration="1000"
